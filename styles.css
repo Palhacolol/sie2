@@ -39,3 +39,7 @@ body{
     color: #c0c0c0;
 }
 
+.container__titulo{
+    font-size: 28px;
+    font-weight: 700;
+}
