@@ -81,3 +81,7 @@ body{
 .container__descricao{
     padding: 2em;
 }
+
+.secudario__imagem{
+    width: 80%;
+}
