@@ -74,5 +74,5 @@ body{
 }
 
 .secundario__botao{
-    display: inline block;
+    display: inline-block;
 }
