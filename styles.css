@@ -55,7 +55,7 @@ body{
 }
 
 .secundario__imagem{
-    width: 80%;
+    width: 50%;
 }
 
 .secundario{
@@ -81,4 +81,6 @@ body{
 .container__descricao{
     padding: 2em;
 }
+
+ 
 
