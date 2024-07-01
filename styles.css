@@ -106,3 +106,9 @@ body{
     color: #FFFFFF;
 }
 
+.rodape__lista{
+    display:flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 1em;
+}
